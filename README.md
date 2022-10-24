@@ -1,67 +1,48 @@
-<h1 align="center">Prueba practica keepPagesByDW</h1>
-<h3 align="center">Tecnologias usadas: React, Next, Node y Heroku.</h3>
+<h1 align="center">BASE DE DATOS I</h1>
+<h3 align="center">portafolio de Jhonatan David Alanoca Blanco.</h3>
 
-## ✨ Demo
+## ✨ HITO 1
 
-Available in Heroku
-
-```sh
-https://keeppagesbydw.herokuapp.com/
-```
-
-## 🚀 Usage
-
-Clone the repository
+Repositorio del hito 1
 
 ```sh
-git clone https://github.com/dheeyi/keeppages.git
+https://github.com/jhonatandvid/BASE-DE-DATOS-I-/tree/main/HITO1
 ```
 
-## 📖 Installation
+## 🚀 HITO 2
 
-SSR and CSR:
+Repositorio del hito 2
 
 ```sh
-cd keepages
-
-git checkout master
-
-npm install
+https://github.com/jhonatandvid/base_de_datos_I/tree/main/DEFENSA-HITO-2-JHONATAN-DAVID-ALANOCA-BLANCO
 ```
 
-## 📖  Development setup
+## 📖 HITO 3
 
-To run the application, it is necessary to execute
+Repositorio de el hito 3
 
 ```sh
-npm run dev
+https://github.com/jhonatandvid/BASE-DE-DATOS-I-/tree/main/HITO3
 ```
 
-## 📖  Production setup
+## 📖  Lenguajes de programacion
 
-To run the application, it is necessary to execute
+
 
 ```sh
-npm run build
-npm run start
+sql y  c#
 ```
 
-## ✨ Screenshots
-
-<p align="center">
-    <img src="https://dl.dropboxusercontent.com/s/q19g1hovmz2k6te/brave_7KJLTmUUHG.png" width="450">
-</p>
 
 
 ## 👤 Author
 
-**Dheeyi William**
+**Jhonatan David Alanoca Blanco*
 
-- Twitter: [@dheeyi](https://twitter.com/dheeyi)
-- Github: [@dheeyi](https://github.com/dheeyi)
+- Github: [https://github.com/jhonatandvid](https://github.com/dheeyi)
 
 ## 📝 License
 
-Copyright © 2021 [Dheeyi William](https://github.com/dheeyi).
+Copyright © 2021 [jhonatandvid](https://github.com/dheeyi).
 See ``MIT LICENSE`` for more information.
 
